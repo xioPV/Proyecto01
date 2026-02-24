@@ -2,7 +2,7 @@
 Ushio to Tora es un legendario manga y anime de acción y sobrenatural que sigue la explosiva alianza entre un joven impulsivo y un demonio milenario. 
 
 <p aling="center">
-  <img src="img/ushio03.jpg" alt="banner Ushio to Tora" width="650">
+  <img src="img/ushio03.jpg" alt="banner Ushio to Tora" width="450">
 </p>
 
 ⚔️ Sinopsis
