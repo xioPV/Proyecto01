@@ -2,8 +2,9 @@
 Ushio to Tora es un legendario manga y anime de acción y sobrenatural que sigue la explosiva alianza entre un joven impulsivo y un demonio milenario. 
 
 <p aling="center">
-  <img src="img/ushio01.jpg" alt="banner Ushio to Tora" width="900">
+  <img src="img/ushio03.jpg" alt="banner Ushio to Tora" width="650">
 </p>
+
 ⚔️ Sinopsis
 La historia comienza cuando Ushio Aotsuki, un estudiante de secundaria, descubre a un temible monstruo atrapado en el sótano de su templo por la legendaria Lanza de la Bestia. Aunque al principio se niega a liberarlo, se ve obligado a hacerlo para salvar a sus amigos de una horda de espíritus malignos. 
 Ushio bautiza al demonio como Tora, y juntos forman una dupla renuente pero devastadora. Mientras Tora intenta constantemente (y falla) comerse a Ushio, ambos deben aprender a trabajar en equipo para enfrentar al Hakumen no Mono, una entidad de pura maldad que amenaza con destruir todo Japón. 
