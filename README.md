@@ -1,38 +1,16 @@
-# Lit Web Components - Proyecto de Prueba
-Proyecto **de prueba** para practicar y validar el uso de **Web Components** con **Lit (Lit JS)**: componentes reutilizables, **Shadow DOM**, propiedades reactivas y empaquetado para web.
-## 📌 Tabla de contenido
-- [Descripción](#-descripción)
-- [Características](#-características)
-- [Tecnologías](#-tecnologías)
-- [Requisitos](#-requisitos)
-- [Instalación](#-instalación)
-- [Ejecución](#-ejecución)
-- [Build](#-build)
-- [Estructura](#-estructura)
-- [Crear un componente](#-crear-un-componente)
-- [Buenas prácticas](#-buenas-prácticas)
-- [Licencia](#-licencia)
-## 🧾 Descripción
-Este repositorio es un **test de prueba** para:
-- Crear componentes con **Lit** usando `LitElement`.
-- Encapsular estilos con **Shadow DOM**.
-- Probar propiedades (`@property`), eventos y render reactivo.
-- Levantar un entorno local rápido con **Vite**.
-## ✨ Características
-- Componentes web **nativos** (Custom Elements).
-- Render reactivo con Lit (`html`, `css`).
-- Estilos encapsulados (Shadow DOM).
-- Proyecto simple listo para ejecutar y construir.
-## 🧰 Tecnologías
-- **Lit** (Lit JS)
-- **Vite**
-- **JavaScript (ESM)**
-## ✅ Requisitos
-- **Node.js 18+** (recomendado 20+)
-- **npm** (o pnpm/yarn)
-## ⚙️ Instalación
-Clona e instala dependencias:
-```bash
-git clone https://github.com/xiomara/lit-web-components-test.git
-cd lit-web-components-test
-npm install
+🐯 Ushio to Tora (うしおととら)
+Ushio to Tora es un legendario manga y anime de acción y sobrenatural que sigue la explosiva alianza entre un joven impulsivo y un demonio milenario. 
+
+<p aling="center">
+  <img src="img/ushio01.jpg" alt="banner Ushio to Tora" width="900">
+</p>
+⚔️ Sinopsis
+La historia comienza cuando Ushio Aotsuki, un estudiante de secundaria, descubre a un temible monstruo atrapado en el sótano de su templo por la legendaria Lanza de la Bestia. Aunque al principio se niega a liberarlo, se ve obligado a hacerlo para salvar a sus amigos de una horda de espíritus malignos. 
+Ushio bautiza al demonio como Tora, y juntos forman una dupla renuente pero devastadora. Mientras Tora intenta constantemente (y falla) comerse a Ushio, ambos deben aprender a trabajar en equipo para enfrentar al Hakumen no Mono, una entidad de pura maldad que amenaza con destruir todo Japón. 
+⚡ Elementos Clave
+La Lanza de la Bestia: Un arma sagrada que otorga un poder inmenso a cambio de consumir el alma del usuario.
+Vínculo Forzado: Una química inmejorable basada en insultos, batallas épicas y una lealtad inesperada.
+Folclore Japonés: Un desfile de yokais y leyendas tradicionales con giros oscuros y emocionantes.
+"No te como hoy porque tienes la lanza, ¡pero mañana será otro día!" — Tora
+📺 ¿Dónde verlo?
+Puedes encontrar la adaptación moderna (2015) en plataformas como Crunchyroll o consultar detalles técnicos en MyAnimeList.
